@@ -1,6 +1,6 @@
 # Blood-Donation
 
-Blood donation project is a dataset that is taken from the drivendata competion
+Blood donation project is a dataset that is taken from the drivendata competion. The goal of the competition is predict if the person is willing to donated blood in the blood donation camp.
 
 Conducted data visualization using R to identify the various aspects of the data to know the various distributions of the data.
 
