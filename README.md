@@ -11,6 +11,6 @@ As it is a classification related problem, the below are the prediction methods 
 
 Tested the goodness of the model using BIC, AIC, Confusion matrix. By calucating the accuracy of all these three models Random Forest model turned out to be better model model with 78%.
 
-The Ranks for the Random Forest model submissions is 419 out of 3478 Participants.
+The highest ranks obtained for this project is 419 out of 3478 Participants.
 
 
